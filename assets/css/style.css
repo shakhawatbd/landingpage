@@ -103,8 +103,7 @@
 /* Footer-Top Section End */
 
 /* Footer-Bottom Section Start */
-.footer-bottom {background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../images/header.png); padding-bottom: 1%; padding-top: 2%;background-attachment: fixed;
-}
+.footer-bottom {background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../images/header.png); padding-bottom: 1%; padding-top: 2%;background-attachment: fixed; background-size: cover;}
 .copyright {color: #f7600e; font-size: 1.4em; font-weight: bolder; letter-spacing: .5px;}
 .arrow-size {color: #f7600e; padding: 15px; border: 2px solid #f7600e; border-radius: 5px; box-shadow: -1px 1px 10px 6px #f7600e; background: transparent;}
 .arrow-size:hover {color: #fff; border:2px solid #fff; box-shadow: -1px 1px 10px 6px #fff;}
